@@ -10,6 +10,7 @@ public class OurGroup {
 	groupMembers.add("Chaiwat");
 	groupMembers.add("Weerin");
 	groupMembers.add("Thitdanai");
+	groupMembers.add("Thanyaboon");
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
